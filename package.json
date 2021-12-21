@@ -1,0 +1,23 @@
+{
+  "name": "@itkyk/rejectJS",
+  "version": "0.0.1",
+  "description": "JSX Template Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itkyk/rejectJS.git"
+  },
+  "keywords": [
+    "jsx",
+    "react"
+  ],
+  "author": "@itkyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itkyk/rejectJS/issues"
+  },
+  "homepage": "https://github.com/itkyk/rejectJS#readme"
+}
